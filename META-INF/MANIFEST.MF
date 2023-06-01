@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: LaundryManagaementSystem
+Bundle-SymbolicName: LaundryManagaementSystem
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: LaundryManagaementSystem
+Export-Package: com.laundry,
+ com.laundry.controller,
+ com.laundry.entity,
+ com.laundry.repository,
+ com.laundry.service
